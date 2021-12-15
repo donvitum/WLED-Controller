@@ -364,10 +364,10 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "",
+      "idf": "../../../../Desktop/WLED_Controller_Board.emn",
       "netlist": "",
-      "specctra_dsn": "",
-      "step": "",
+      "specctra_dsn": "../../../../Desktop/WLED_Controller_Board.dsn",
+      "step": "../../../../Desktop/WLED_Controller_Board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
